@@ -1,7 +1,7 @@
 Консольное приложение для игры в шахматы
 ===============================
 
-![Шахматы](https://example.com/path/to/chess-image.png)
+![Шахматы](https://sneg.top/uploads/posts/2023-03/1680112262_sneg-top-p-shakhmati-zastavka-na-telefon-vkontakte-64.jpg)
 
 Описание
 ------------
